@@ -466,7 +466,7 @@ pocketcasts==0.1
 proliphix==0.4.1
 
 # homeassistant.components.sensor.systemmonitor
-psutil==5.2.2
+psutil==5.6.6
 
 # homeassistant.components.wink
 pubnubsub-handler==1.0.2
